@@ -1,0 +1,12 @@
+# Python
+*.pyc
+__pycache__/
+env/
+
+# VSCode / PyCharm
+.vscode/
+.idea/
+
+# React / Node
+node_modules/
+build/
